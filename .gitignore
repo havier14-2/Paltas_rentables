@@ -1,0 +1,7 @@
+# Entorno y configuraciones locales
+.env
+*.pyc
+__pycache__/
+
+# Datos (No subir volúmenes pesados de datos a GitHub)
+data/*.csv
