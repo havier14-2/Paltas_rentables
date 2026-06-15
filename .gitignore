@@ -4,4 +4,4 @@
 __pycache__/
 
 # Datos (No subir volúmenes pesados de datos a GitHub)
-data/*.csv
+#data/*.csv

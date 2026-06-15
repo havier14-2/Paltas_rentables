@@ -1,0 +1,577 @@
+id_registro,fecha,producto,mercado,precio_minimo,precio_maximo,precio_promedio
+342,2026-01-02,Palta,Vega Monumental Concepción,3600.0,3600.0,3600.0
+343,2026-01-02,Palta,Vega Monumental Concepción,3300.0,3300.0,3300.0
+344,2026-01-02,Palta,Vega Monumental Concepción,2800.0,2800.0,2800.0
+345,2026-01-02,Palta,Vega Central Mapocho de Santiago,4200.0,4200.0,4200.0
+346,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+347,2026-01-02,Palta,Vega Central Mapocho de Santiago,3800.0,3800.0,3800.0
+348,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,3700.0,3700.0,3700.0
+349,2026-01-02,Palta,Terminal La Palmera de La Serena,3300.0,3400.0,3350.0
+350,2026-01-02,Palta,Vega Central Mapocho de Santiago,3400.0,3400.0,3400.0
+351,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,3300.0,3300.0,3300.0
+352,2026-01-02,Palta,Terminal La Palmera de La Serena,2900.0,3000.0,2950.0
+353,2026-01-02,Palta,Vega Central Mapocho de Santiago,3000.0,3000.0,3000.0
+354,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,2900.0,2900.0,2900.0
+355,2026-01-02,Palta,Terminal La Palmera de La Serena,2500.0,2600.0,2550.0
+356,2026-01-02,Palta,Vega Central Mapocho de Santiago,2500.0,2500.0,2500.0
+357,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,2500.0,2500.0,2500.0
+358,2026-01-02,Palta,Terminal La Palmera de La Serena,2100.0,2200.0,2150.0
+359,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,2000.0,2000.0,2000.0
+360,2026-01-02,Palta,Femacal de La Calera,3400.0,3400.0,3400.0
+361,2026-01-02,Palta,Femacal de La Calera,3000.0,3000.0,3000.0
+362,2026-01-02,Palta,Femacal de La Calera,2700.0,2700.0,2700.0
+363,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+364,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,3600.0,3800.0,3702.7027
+365,2026-01-02,Palta,Macroferia Regional de Talca,3500.0,3500.0,3500.0
+366,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,3300.0,3600.0,3453.6585
+367,2026-01-02,Palta,Macroferia Regional de Talca,3300.0,3300.0,3300.0
+368,2026-01-02,Palta,Terminal Hortofrutícola Agro Chillán,3000.0,3000.0,3000.0
+369,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,2700.0,3300.0,2992.6829
+370,2026-01-02,Palta,Macroferia Regional de Talca,2900.0,2900.0,2900.0
+371,2026-01-02,Palta,Terminal Hortofrutícola Agro Chillán,2700.0,2700.0,2700.0
+372,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,2300.0,2900.0,2630.0
+373,2026-01-02,Palta,Vega Modelo de Temuco,3500.0,3800.0,3651.3274
+374,2026-01-02,Palta,Vega Modelo de Temuco,2800.0,2800.0,2800.0
+375,2026-01-02,Palta,Vega Modelo de Temuco,2500.0,2500.0,2500.0
+376,2026-01-02,Palta,Vega Modelo de Temuco,2000.0,2000.0,2000.0
+377,2026-01-02,Palta,Vega Central Mapocho de Santiago,2400.0,2400.0,2400.0
+378,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,2200.0,2200.0,2200.0
+379,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,3800.0,3800.0,3800.0
+380,2026-01-02,Palta,Vega Central Mapocho de Santiago,2200.0,2200.0,2200.0
+381,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,2000.0,2000.0,2000.0
+382,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,3500.0,3500.0,3500.0
+383,2026-01-02,Palta,Vega Central Mapocho de Santiago,2000.0,2000.0,2000.0
+384,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,1800.0,1800.0,1800.0
+385,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,3200.0,3200.0,3200.0
+386,2026-01-02,Palta,Vega Central Mapocho de Santiago,1800.0,1800.0,1800.0
+387,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,1500.0,1500.0,1500.0
+388,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,2700.0,2700.0,2700.0
+389,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,1200.0,1200.0,1200.0
+390,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,2400.0,2400.0,2400.0
+391,2026-01-02,Palta,Mercado Mayorista Lo Valledor de Santiago,1800.0,1800.0,1800.0
+960,2026-01-05,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+961,2026-01-05,Palta,Mercado Mayorista Lo Valledor de Santiago,3700.0,3700.0,3700.0
+962,2026-01-05,Palta,Terminal La Palmera de La Serena,3300.0,3400.0,3350.0
+963,2026-01-05,Palta,Mercado Mayorista Lo Valledor de Santiago,3300.0,3300.0,3300.0
+964,2026-01-05,Palta,Terminal La Palmera de La Serena,2900.0,3000.0,2950.0
+965,2026-01-05,Palta,Mercado Mayorista Lo Valledor de Santiago,2900.0,2900.0,2900.0
+966,2026-01-05,Palta,Terminal La Palmera de La Serena,2500.0,2600.0,2550.0
+967,2026-01-05,Palta,Mercado Mayorista Lo Valledor de Santiago,2400.0,2400.0,2400.0
+968,2026-01-05,Palta,Terminal La Palmera de La Serena,2100.0,2200.0,2150.0
+969,2026-01-05,Palta,Femacal de La Calera,3300.0,3300.0,3300.0
+970,2026-01-05,Palta,Femacal de La Calera,3000.0,3000.0,3000.0
+971,2026-01-05,Palta,Femacal de La Calera,2600.0,2600.0,2600.0
+972,2026-01-05,Palta,Terminal Hortofrutícola Agro Chillán,3000.0,3200.0,3100.0
+973,2026-01-05,Palta,Terminal Hortofrutícola Agro Chillán,2800.0,2800.0,2800.0
+974,2026-01-05,Palta,Terminal Hortofrutícola Agro Chillán,2500.0,2500.0,2500.0
+975,2026-01-05,Palta,Macroferia Regional de Talca,35000.0,35000.0,35000.0
+976,2026-01-05,Palta,Macroferia Regional de Talca,33000.0,33000.0,33000.0
+977,2026-01-05,Palta,Macroferia Regional de Talca,25000.0,29000.0,26684.2105
+978,2026-01-05,Palta,Vega Modelo de Temuco,3500.0,4000.0,3657.8947
+979,2026-01-05,Palta,Vega Modelo de Temuco,3300.0,3300.0,3300.0
+980,2026-01-05,Palta,Vega Modelo de Temuco,2800.0,2800.0,2800.0
+981,2026-01-05,Palta,Vega Modelo de Temuco,2500.0,2500.0,2500.0
+982,2026-01-05,Palta,Vega Modelo de Temuco,2000.0,2000.0,2000.0
+983,2026-01-05,Palta,Mercado Mayorista Lo Valledor de Santiago,2200.0,2200.0,2200.0
+984,2026-01-05,Palta,Mercado Mayorista Lo Valledor de Santiago,3800.0,3800.0,3800.0
+985,2026-01-05,Palta,Mercado Mayorista Lo Valledor de Santiago,2000.0,2000.0,2000.0
+986,2026-01-05,Palta,Vega Central Mapocho de Santiago,3400.0,3800.0,3600.0
+987,2026-01-05,Palta,Mercado Mayorista Lo Valledor de Santiago,3500.0,3500.0,3500.0
+988,2026-01-05,Palta,Mercado Mayorista Lo Valledor de Santiago,1800.0,1800.0,1800.0
+989,2026-01-05,Palta,Vega Central Mapocho de Santiago,3200.0,3400.0,3300.0
+990,2026-01-05,Palta,Mercado Mayorista Lo Valledor de Santiago,3100.0,3100.0,3100.0
+991,2026-01-05,Palta,Mercado Mayorista Lo Valledor de Santiago,1500.0,1500.0,1500.0
+992,2026-01-05,Palta,Vega Central Mapocho de Santiago,2800.0,3200.0,3000.0
+993,2026-01-05,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+994,2026-01-05,Palta,Mercado Mayorista Lo Valledor de Santiago,1200.0,1200.0,1200.0
+995,2026-01-05,Palta,Vega Central Mapocho de Santiago,2400.0,2800.0,2600.0
+996,2026-01-05,Palta,Mercado Mayorista Lo Valledor de Santiago,2200.0,2200.0,2200.0
+1740,2026-01-06,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+1741,2026-01-06,Palta,Mercado Mayorista Lo Valledor de Santiago,3700.0,3700.0,3700.0
+1742,2026-01-06,Palta,Comercializadora del Agro de Limarí,3100.0,3200.0,3150.0
+1743,2026-01-06,Palta,Mercado Mayorista Lo Valledor de Santiago,3300.0,3300.0,3300.0
+1744,2026-01-06,Palta,Comercializadora del Agro de Limarí,2700.0,2800.0,2750.0
+1745,2026-01-06,Palta,Mercado Mayorista Lo Valledor de Santiago,2900.0,2900.0,2900.0
+1746,2026-01-06,Palta,Comercializadora del Agro de Limarí,2300.0,2400.0,2350.0
+1747,2026-01-06,Palta,Mercado Mayorista Lo Valledor de Santiago,2400.0,2400.0,2400.0
+1748,2026-01-06,Palta,Comercializadora del Agro de Limarí,1900.0,2000.0,1950.0
+1749,2026-01-06,Palta,Femacal de La Calera,3300.0,3300.0,3300.0
+1750,2026-01-06,Palta,Femacal de La Calera,3000.0,3000.0,3000.0
+1751,2026-01-06,Palta,Femacal de La Calera,2600.0,2600.0,2600.0
+1752,2026-01-06,Palta,Vega Central Mapocho de Santiago,2000.0,2000.0,2000.0
+1753,2026-01-06,Palta,Vega Central Mapocho de Santiago,3700.0,3700.0,3700.0
+1754,2026-01-06,Palta,Feria Lagunitas de Puerto Montt,4800.0,4800.0,4800.0
+1755,2026-01-06,Palta,Vega Central Mapocho de Santiago,1800.0,1800.0,1800.0
+1756,2026-01-06,Palta,Vega Central Mapocho de Santiago,3300.0,3300.0,3300.0
+1757,2026-01-06,Palta,Vega Monumental Concepción,3500.0,3500.0,3500.0
+1758,2026-01-06,Palta,Vega Central Mapocho de Santiago,1600.0,1600.0,1600.0
+1759,2026-01-06,Palta,Vega Central Mapocho de Santiago,2900.0,2900.0,2900.0
+1760,2026-01-06,Palta,Vega Monumental Concepción,3000.0,3000.0,3000.0
+1761,2026-01-06,Palta,Vega Central Mapocho de Santiago,2300.0,2300.0,2300.0
+1762,2026-01-06,Palta,Macroferia Regional de Talca,35000.0,35000.0,35000.0
+1763,2026-01-06,Palta,Terminal Hortofrutícola Agro Chillán,32000.0,35000.0,33500.0
+1764,2026-01-06,Palta,Macroferia Regional de Talca,33000.0,33000.0,33000.0
+1765,2026-01-06,Palta,Terminal Hortofrutícola Agro Chillán,30000.0,30000.0,30000.0
+1766,2026-01-06,Palta,Macroferia Regional de Talca,29000.0,29000.0,29000.0
+1767,2026-01-06,Palta,Terminal Hortofrutícola Agro Chillán,24000.0,26000.0,25000.0
+1768,2026-01-06,Palta,Vega Modelo de Temuco,3400.0,3800.0,3586.6666
+1769,2026-01-06,Palta,Vega Modelo de Temuco,2900.0,3000.0,2953.3333
+1770,2026-01-06,Palta,Vega Modelo de Temuco,2500.0,2500.0,2500.0
+1771,2026-01-06,Palta,Vega Modelo de Temuco,2000.0,2200.0,2125.0
+1772,2026-01-06,Palta,Mercado Mayorista Lo Valledor de Santiago,2200.0,2200.0,2200.0
+1773,2026-01-06,Palta,Mercado Mayorista Lo Valledor de Santiago,3800.0,3800.0,3800.0
+1774,2026-01-06,Palta,Mercado Mayorista Lo Valledor de Santiago,2000.0,2000.0,2000.0
+1775,2026-01-06,Palta,Mercado Mayorista Lo Valledor de Santiago,3500.0,3500.0,3500.0
+1776,2026-01-06,Palta,Mercado Mayorista Lo Valledor de Santiago,1800.0,1800.0,1800.0
+1777,2026-01-06,Palta,Mercado Mayorista Lo Valledor de Santiago,1500.0,1500.0,1500.0
+1778,2026-01-06,Palta,Mercado Mayorista Lo Valledor de Santiago,2700.0,2700.0,2700.0
+1779,2026-01-06,Palta,Mercado Mayorista Lo Valledor de Santiago,1200.0,1200.0,1200.0
+1780,2026-01-06,Palta,Mercado Mayorista Lo Valledor de Santiago,2200.0,2200.0,2200.0
+2536,2026-01-07,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+2537,2026-01-07,Palta,Mercado Mayorista Lo Valledor de Santiago,3700.0,3700.0,3700.0
+2538,2026-01-07,Palta,Comercializadora del Agro de Limarí,3200.0,3300.0,3250.0
+2539,2026-01-07,Palta,Mercado Mayorista Lo Valledor de Santiago,3300.0,3300.0,3300.0
+2540,2026-01-07,Palta,Comercializadora del Agro de Limarí,2800.0,2900.0,2850.0
+2541,2026-01-07,Palta,Mercado Mayorista Lo Valledor de Santiago,2900.0,2900.0,2900.0
+2542,2026-01-07,Palta,Comercializadora del Agro de Limarí,2400.0,2500.0,2450.0
+2543,2026-01-07,Palta,Mercado Mayorista Lo Valledor de Santiago,2400.0,2400.0,2400.0
+2544,2026-01-07,Palta,Comercializadora del Agro de Limarí,2000.0,2100.0,2050.0
+2545,2026-01-07,Palta,Femacal de La Calera,3400.0,3400.0,3400.0
+2546,2026-01-07,Palta,Femacal de La Calera,3000.0,3000.0,3000.0
+2547,2026-01-07,Palta,Femacal de La Calera,2600.0,2600.0,2600.0
+2548,2026-01-07,Palta,Femacal de La Calera,2200.0,2200.0,2200.0
+2549,2026-01-07,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+2550,2026-01-07,Palta,Vega Central Mapocho de Santiago,3600.0,3600.0,3600.0
+2551,2026-01-07,Palta,Mercado Mayorista Lo Valledor de Santiago,3600.0,3600.0,3600.0
+2552,2026-01-07,Palta,Vega Central Mapocho de Santiago,3300.0,3300.0,3300.0
+2553,2026-01-07,Palta,Mercado Mayorista Lo Valledor de Santiago,3300.0,3300.0,3300.0
+2554,2026-01-07,Palta,Vega Monumental Concepción,3500.0,3500.0,3500.0
+2555,2026-01-07,Palta,Vega Central Mapocho de Santiago,2800.0,2800.0,2800.0
+2556,2026-01-07,Palta,Mercado Mayorista Lo Valledor de Santiago,2700.0,2700.0,2700.0
+2557,2026-01-07,Palta,Vega Monumental Concepción,3200.0,3200.0,3200.0
+2558,2026-01-07,Palta,Vega Central Mapocho de Santiago,2300.0,2300.0,2300.0
+2559,2026-01-07,Palta,Mercado Mayorista Lo Valledor de Santiago,2300.0,2300.0,2300.0
+2560,2026-01-07,Palta,Macroferia Regional de Talca,36000.0,36000.0,36000.0
+2561,2026-01-07,Palta,Macroferia Regional de Talca,34000.0,34000.0,34000.0
+2562,2026-01-07,Palta,Macroferia Regional de Talca,32000.0,32000.0,32000.0
+2563,2026-01-07,Palta,Vega Modelo de Temuco,3400.0,3400.0,3400.0
+2564,2026-01-07,Palta,Vega Modelo de Temuco,2800.0,2900.0,2857.1428
+2565,2026-01-07,Palta,Vega Modelo de Temuco,2500.0,2500.0,2500.0
+2566,2026-01-07,Palta,Vega Modelo de Temuco,2000.0,2200.0,2080.0
+2567,2026-01-07,Palta,Mercado Mayorista Lo Valledor de Santiago,2200.0,2200.0,2200.0
+2568,2026-01-07,Palta,Mercado Mayorista Lo Valledor de Santiago,2000.0,2000.0,2000.0
+2569,2026-01-07,Palta,Mercado Mayorista Lo Valledor de Santiago,1800.0,1800.0,1800.0
+2570,2026-01-07,Palta,Mercado Mayorista Lo Valledor de Santiago,1500.0,1500.0,1500.0
+2571,2026-01-07,Palta,Mercado Mayorista Lo Valledor de Santiago,1200.0,1200.0,1200.0
+3361,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+3362,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,3700.0,3700.0,3700.0
+3363,2026-01-08,Palta,Terminal La Palmera de La Serena,3400.0,3500.0,3450.0
+3364,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,3400.0,3400.0,3400.0
+3365,2026-01-08,Palta,Terminal La Palmera de La Serena,3000.0,3100.0,3050.0
+3366,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,3000.0,3000.0,3000.0
+3367,2026-01-08,Palta,Terminal La Palmera de La Serena,2600.0,2700.0,2650.0
+3368,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,2700.0,2700.0,2700.0
+3369,2026-01-08,Palta,Terminal La Palmera de La Serena,2200.0,2300.0,2250.0
+3370,2026-01-08,Palta,Femacal de La Calera,3400.0,3400.0,3400.0
+3371,2026-01-08,Palta,Femacal de La Calera,3000.0,3000.0,3000.0
+3372,2026-01-08,Palta,Femacal de La Calera,2600.0,2600.0,2600.0
+3373,2026-01-08,Palta,Femacal de La Calera,2200.0,2200.0,2200.0
+3374,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+3375,2026-01-08,Palta,Vega Central Mapocho de Santiago,2000.0,2000.0,2000.0
+3376,2026-01-08,Palta,Vega Central Mapocho de Santiago,3600.0,3600.0,3600.0
+3377,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,3600.0,3600.0,3600.0
+3378,2026-01-08,Palta,Vega Monumental Concepción,3600.0,3600.0,3600.0
+3379,2026-01-08,Palta,Feria Lagunitas de Puerto Montt,4800.0,4800.0,4800.0
+3380,2026-01-08,Palta,Vega Central Mapocho de Santiago,1800.0,1800.0,1800.0
+3381,2026-01-08,Palta,Vega Central Mapocho de Santiago,3300.0,3300.0,3300.0
+3382,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,3300.0,3300.0,3300.0
+3383,2026-01-08,Palta,Vega Monumental Concepción,3300.0,3300.0,3300.0
+3384,2026-01-08,Palta,Vega Central Mapocho de Santiago,2900.0,2900.0,2900.0
+3385,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,2900.0,2900.0,2900.0
+3386,2026-01-08,Palta,Vega Monumental Concepción,3000.0,3000.0,3000.0
+3387,2026-01-08,Palta,Vega Central Mapocho de Santiago,2400.0,2400.0,2400.0
+3388,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,2400.0,2400.0,2400.0
+3389,2026-01-08,Palta,Macroferia Regional de Talca,37000.0,37000.0,37000.0
+3390,2026-01-08,Palta,Terminal Hortofrutícola Agro Chillán,35000.0,36000.0,35500.0
+3391,2026-01-08,Palta,Macroferia Regional de Talca,35000.0,35000.0,35000.0
+3392,2026-01-08,Palta,Terminal Hortofrutícola Agro Chillán,32000.0,33000.0,32500.0
+3393,2026-01-08,Palta,Macroferia Regional de Talca,32000.0,32000.0,32000.0
+3394,2026-01-08,Palta,Terminal Hortofrutícola Agro Chillán,29000.0,30000.0,29500.0
+3395,2026-01-08,Palta,Vega Modelo de Temuco,4000.0,4000.0,4000.0
+3396,2026-01-08,Palta,Vega Modelo de Temuco,3700.0,3800.0,3746.8085
+3397,2026-01-08,Palta,Vega Modelo de Temuco,3000.0,3000.0,3000.0
+3398,2026-01-08,Palta,Vega Modelo de Temuco,2500.0,2500.0,2500.0
+3399,2026-01-08,Palta,Vega Modelo de Temuco,2000.0,2200.0,2090.909
+3400,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+3401,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,3800.0,3800.0,3800.0
+3402,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,2500.0,2500.0,2500.0
+3403,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,3500.0,3500.0,3500.0
+3404,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,2200.0,2200.0,2200.0
+3405,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,3200.0,3200.0,3200.0
+3406,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,2000.0,2000.0,2000.0
+3407,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+3408,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,1500.0,1500.0,1500.0
+3409,2026-01-08,Palta,Mercado Mayorista Lo Valledor de Santiago,2500.0,2500.0,2500.0
+4203,2026-01-09,Palta,Macroferia Regional de Talca,3700.0,3700.0,3700.0
+4204,2026-01-09,Palta,Macroferia Regional de Talca,3500.0,3500.0,3500.0
+4205,2026-01-09,Palta,Macroferia Regional de Talca,3300.0,3300.0,3300.0
+4206,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+4207,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,3700.0,3700.0,3700.0
+4208,2026-01-09,Palta,Terminal La Palmera de La Serena,3400.0,3500.0,3450.0
+4209,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,3400.0,3400.0,3400.0
+4210,2026-01-09,Palta,Terminal La Palmera de La Serena,3000.0,3100.0,3050.0
+4211,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,3000.0,3000.0,3000.0
+4212,2026-01-09,Palta,Terminal La Palmera de La Serena,2600.0,2700.0,2650.0
+4213,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,2700.0,2700.0,2700.0
+4214,2026-01-09,Palta,Terminal La Palmera de La Serena,2200.0,2300.0,2250.0
+4215,2026-01-09,Palta,Femacal de La Calera,3400.0,3500.0,3447.3684
+4216,2026-01-09,Palta,Femacal de La Calera,3100.0,3200.0,3152.9411
+4217,2026-01-09,Palta,Femacal de La Calera,2500.0,2500.0,2500.0
+4218,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+4219,2026-01-09,Palta,Vega Central Mapocho de Santiago,3600.0,3600.0,3600.0
+4220,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,3700.0,3700.0,3700.0
+4221,2026-01-09,Palta,Terminal Hortofrutícola Agro Chillán,3000.0,3000.0,3000.0
+4222,2026-01-09,Palta,Vega Monumental Concepción,3700.0,3700.0,3700.0
+4223,2026-01-09,Palta,Feria Lagunitas de Puerto Montt,4800.0,4800.0,4800.0
+4224,2026-01-09,Palta,Vega Central Mapocho de Santiago,3300.0,3300.0,3300.0
+4225,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,3400.0,3400.0,3400.0
+4226,2026-01-09,Palta,Terminal Hortofrutícola Agro Chillán,2700.0,2700.0,2700.0
+4227,2026-01-09,Palta,Vega Monumental Concepción,3300.0,3300.0,3300.0
+4228,2026-01-09,Palta,Feria Lagunitas de Puerto Montt,4500.0,4500.0,4500.0
+4229,2026-01-09,Palta,Vega Central Mapocho de Santiago,2900.0,2900.0,2900.0
+4230,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,3000.0,3000.0,3000.0
+4231,2026-01-09,Palta,Terminal Hortofrutícola Agro Chillán,2500.0,2500.0,2500.0
+4232,2026-01-09,Palta,Vega Monumental Concepción,3000.0,3000.0,3000.0
+4233,2026-01-09,Palta,Vega Central Mapocho de Santiago,2400.0,2400.0,2400.0
+4234,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,2700.0,2700.0,2700.0
+4235,2026-01-09,Palta,Vega Modelo de Temuco,3700.0,3800.0,3735.7142
+4236,2026-01-09,Palta,Vega Modelo de Temuco,3000.0,3000.0,3000.0
+4237,2026-01-09,Palta,Vega Modelo de Temuco,2500.0,2500.0,2500.0
+4238,2026-01-09,Palta,Vega Modelo de Temuco,2200.0,2200.0,2200.0
+4239,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+4240,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,3800.0,3800.0,3800.0
+4241,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,2500.0,2500.0,2500.0
+4242,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,3500.0,3500.0,3500.0
+4243,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,2200.0,2200.0,2200.0
+4244,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,3200.0,3200.0,3200.0
+4245,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,2000.0,2000.0,2000.0
+4246,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+4247,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,1800.0,1800.0,1800.0
+4248,2026-01-09,Palta,Mercado Mayorista Lo Valledor de Santiago,2500.0,2500.0,2500.0
+4975,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+4976,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,3700.0,3700.0,3700.0
+4977,2026-01-12,Palta,Terminal La Palmera de La Serena,3500.0,3600.0,3550.0
+4978,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,3400.0,3400.0,3400.0
+4979,2026-01-12,Palta,Terminal La Palmera de La Serena,3100.0,3200.0,3150.0
+4980,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,3200.0,3200.0,3200.0
+4981,2026-01-12,Palta,Terminal La Palmera de La Serena,2700.0,2800.0,2750.0
+4982,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+4983,2026-01-12,Palta,Terminal La Palmera de La Serena,2300.0,2400.0,2350.0
+4984,2026-01-12,Palta,Femacal de La Calera,3300.0,3300.0,3300.0
+4985,2026-01-12,Palta,Femacal de La Calera,3000.0,3000.0,3000.0
+4986,2026-01-12,Palta,Femacal de La Calera,2600.0,2600.0,2600.0
+4987,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+4988,2026-01-12,Palta,Vega Central Mapocho de Santiago,2600.0,2600.0,2600.0
+4989,2026-01-12,Palta,Vega Central Mapocho de Santiago,3700.0,3700.0,3700.0
+4990,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,3700.0,3700.0,3700.0
+4991,2026-01-12,Palta,Terminal Hortofrutícola Agro Chillán,3000.0,3000.0,3000.0
+4992,2026-01-12,Palta,Feria Lagunitas de Puerto Montt,4800.0,4800.0,4800.0
+4993,2026-01-12,Palta,Vega Central Mapocho de Santiago,2200.0,2200.0,2200.0
+4994,2026-01-12,Palta,Vega Central Mapocho de Santiago,3300.0,3300.0,3300.0
+4995,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,3400.0,3400.0,3400.0
+4996,2026-01-12,Palta,Terminal Hortofrutícola Agro Chillán,2800.0,2800.0,2800.0
+4997,2026-01-12,Palta,Vega Central Mapocho de Santiago,2900.0,2900.0,2900.0
+4998,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,3000.0,3000.0,3000.0
+4999,2026-01-12,Palta,Vega Central Mapocho de Santiago,2300.0,2300.0,2300.0
+5000,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,2700.0,2700.0,2700.0
+5001,2026-01-12,Palta,Macroferia Regional de Talca,37000.0,37000.0,37000.0
+5002,2026-01-12,Palta,Macroferia Regional de Talca,35000.0,35000.0,35000.0
+5003,2026-01-12,Palta,Macroferia Regional de Talca,33000.0,33000.0,33000.0
+5004,2026-01-12,Palta,Vega Modelo de Temuco,4000.0,4000.0,4000.0
+5005,2026-01-12,Palta,Vega Modelo de Temuco,3700.0,3800.0,3750.0
+5006,2026-01-12,Palta,Vega Modelo de Temuco,3000.0,3500.0,3265.8227
+5007,2026-01-12,Palta,Vega Modelo de Temuco,2500.0,2800.0,2633.9285
+5008,2026-01-12,Palta,Vega Modelo de Temuco,2000.0,2200.0,2100.0
+5009,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,3800.0,3800.0,3800.0
+5010,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,3500.0,3500.0,3500.0
+5011,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,3300.0,3300.0,3300.0
+5012,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,3000.0,3000.0,3000.0
+5013,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,2600.0,2600.0,2600.0
+5014,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+5015,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,2500.0,2500.0,2500.0
+5016,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,2200.0,2200.0,2200.0
+5017,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,2000.0,2000.0,2000.0
+5018,2026-01-12,Palta,Mercado Mayorista Lo Valledor de Santiago,1700.0,1700.0,1700.0
+5767,2026-01-13,Palta,Vega Monumental Concepción,3600.0,3600.0,3600.0
+5768,2026-01-13,Palta,Vega Monumental Concepción,3400.0,3400.0,3400.0
+5769,2026-01-13,Palta,Vega Monumental Concepción,3100.0,3100.0,3100.0
+5770,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+5771,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,3700.0,3700.0,3700.0
+5772,2026-01-13,Palta,Terminal La Palmera de La Serena,3500.0,3600.0,3550.0
+5773,2026-01-13,Palta,Comercializadora del Agro de Limarí,3400.0,3500.0,3450.0
+5774,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,3300.0,3300.0,3300.0
+5775,2026-01-13,Palta,Terminal La Palmera de La Serena,3100.0,3200.0,3150.0
+5776,2026-01-13,Palta,Comercializadora del Agro de Limarí,3000.0,3100.0,3050.0
+5777,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,3000.0,3000.0,3000.0
+5778,2026-01-13,Palta,Terminal La Palmera de La Serena,2800.0,2900.0,2850.0
+5779,2026-01-13,Palta,Comercializadora del Agro de Limarí,2600.0,2700.0,2650.0
+5780,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,2700.0,2700.0,2700.0
+5781,2026-01-13,Palta,Terminal La Palmera de La Serena,2400.0,2500.0,2450.0
+5782,2026-01-13,Palta,Comercializadora del Agro de Limarí,2200.0,2300.0,2250.0
+5783,2026-01-13,Palta,Femacal de La Calera,3300.0,3400.0,3350.0
+5784,2026-01-13,Palta,Femacal de La Calera,2900.0,3000.0,2958.1395
+5785,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+5786,2026-01-13,Palta,Macroferia Regional de Talca,2800.0,2800.0,2800.0
+5787,2026-01-13,Palta,Vega Central Mapocho de Santiago,3700.0,3700.0,3700.0
+5788,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,3700.0,3700.0,3700.0
+5789,2026-01-13,Palta,Feria Lagunitas de Puerto Montt,4800.0,4800.0,4800.0
+5790,2026-01-13,Palta,Macroferia Regional de Talca,2500.0,2500.0,2500.0
+5791,2026-01-13,Palta,Vega Central Mapocho de Santiago,3300.0,3300.0,3300.0
+5792,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,3500.0,3500.0,3500.0
+5793,2026-01-13,Palta,Feria Lagunitas de Puerto Montt,4500.0,4500.0,4500.0
+5794,2026-01-13,Palta,Vega Central Mapocho de Santiago,2900.0,2900.0,2900.0
+5795,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,3100.0,3300.0,3196.1538
+5796,2026-01-13,Palta,Vega Central Mapocho de Santiago,2600.0,2600.0,2600.0
+5797,2026-01-13,Palta,Macroferia Regional de Talca,35000.0,35000.0,35000.0
+5798,2026-01-13,Palta,Macroferia Regional de Talca,32000.0,32000.0,32000.0
+5799,2026-01-13,Palta,Macroferia Regional de Talca,30000.0,30000.0,30000.0
+5800,2026-01-13,Palta,Macroferia Regional de Talca,27000.0,27000.0,27000.0
+5801,2026-01-13,Palta,Vega Modelo de Temuco,3600.0,3600.0,3600.0
+5802,2026-01-13,Palta,Vega Modelo de Temuco,3500.0,3500.0,3500.0
+5803,2026-01-13,Palta,Vega Modelo de Temuco,2900.0,2900.0,2900.0
+5804,2026-01-13,Palta,Vega Modelo de Temuco,2500.0,2500.0,2500.0
+5805,2026-01-13,Palta,Vega Modelo de Temuco,2200.0,2200.0,2200.0
+5806,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,3800.0,3800.0,3800.0
+5807,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,3800.0,3800.0,3800.0
+5808,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,3500.0,3500.0,3500.0
+5809,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,3500.0,3500.0,3500.0
+5810,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,3200.0,3200.0,3200.0
+5811,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,3200.0,3200.0,3200.0
+5812,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,3000.0,3000.0,3000.0
+5813,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+5814,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,2700.0,2700.0,2700.0
+5815,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,2500.0,2500.0,2500.0
+5816,2026-01-13,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+6590,2026-01-14,Palta,Agrícola del Norte S.A. de Arica,33000.0,35000.0,33800.0
+6591,2026-01-14,Palta,Agrícola del Norte S.A. de Arica,28000.0,33000.0,30500.0
+6592,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+6593,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,3700.0,3700.0,3700.0
+6594,2026-01-14,Palta,Comercializadora del Agro de Limarí,3400.0,3500.0,3450.0
+6595,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,3300.0,3300.0,3300.0
+6596,2026-01-14,Palta,Comercializadora del Agro de Limarí,3000.0,3100.0,3050.0
+6597,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,3000.0,3000.0,3000.0
+6598,2026-01-14,Palta,Comercializadora del Agro de Limarí,2600.0,2700.0,2650.0
+6599,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,2700.0,2700.0,2700.0
+6600,2026-01-14,Palta,Comercializadora del Agro de Limarí,2200.0,2300.0,2250.0
+6601,2026-01-14,Palta,Femacal de La Calera,3300.0,3400.0,3352.6315
+6602,2026-01-14,Palta,Femacal de La Calera,2900.0,3000.0,2961.5384
+6603,2026-01-14,Palta,Femacal de La Calera,2500.0,2600.0,2554.5454
+6604,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+6605,2026-01-14,Palta,Vega Central Mapocho de Santiago,3500.0,3500.0,3500.0
+6606,2026-01-14,Palta,Vega Central Mapocho de Santiago,3700.0,3700.0,3700.0
+6607,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,3700.0,3700.0,3700.0
+6608,2026-01-14,Palta,Macroferia Regional de Talca,3500.0,3500.0,3500.0
+6609,2026-01-14,Palta,Vega Central Mapocho de Santiago,3300.0,3300.0,3300.0
+6610,2026-01-14,Palta,Vega Central Mapocho de Santiago,3500.0,3500.0,3500.0
+6611,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,3500.0,3500.0,3500.0
+6612,2026-01-14,Palta,Macroferia Regional de Talca,3300.0,3300.0,3300.0
+6613,2026-01-14,Palta,Terminal Hortofrutícola Agro Chillán,3500.0,3500.0,3500.0
+6614,2026-01-14,Palta,Vega Central Mapocho de Santiago,2900.0,2900.0,2900.0
+6615,2026-01-14,Palta,Vega Central Mapocho de Santiago,3000.0,3000.0,3000.0
+6616,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,3200.0,3200.0,3200.0
+6617,2026-01-14,Palta,Macroferia Regional de Talca,3000.0,3000.0,3000.0
+6618,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+6619,2026-01-14,Palta,Terminal Hortofrutícola Agro Chillán,37000.0,37000.0,37000.0
+6620,2026-01-14,Palta,Terminal Hortofrutícola Agro Chillán,33000.0,33000.0,33000.0
+6621,2026-01-14,Palta,Vega Modelo de Temuco,3600.0,3600.0,3600.0
+6622,2026-01-14,Palta,Vega Modelo de Temuco,3500.0,3500.0,3500.0
+6623,2026-01-14,Palta,Vega Modelo de Temuco,2900.0,2900.0,2900.0
+6624,2026-01-14,Palta,Vega Modelo de Temuco,2500.0,2500.0,2500.0
+6625,2026-01-14,Palta,Vega Modelo de Temuco,2200.0,2200.0,2200.0
+6626,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+6627,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,3800.0,3800.0,3800.0
+6628,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,2500.0,2500.0,2500.0
+6629,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,3500.0,3500.0,3500.0
+6630,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,2200.0,2200.0,2200.0
+6631,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,3200.0,3200.0,3200.0
+6632,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,2000.0,2000.0,2000.0
+6633,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+6634,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,1600.0,1600.0,1600.0
+6635,2026-01-14,Palta,Mercado Mayorista Lo Valledor de Santiago,2500.0,2500.0,2500.0
+7415,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+7416,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,3700.0,3700.0,3700.0
+7417,2026-01-15,Palta,Terminal La Palmera de La Serena,3500.0,3600.0,3550.0
+7418,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,3300.0,3300.0,3300.0
+7419,2026-01-15,Palta,Terminal La Palmera de La Serena,3100.0,3200.0,3150.0
+7420,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,3000.0,3000.0,3000.0
+7421,2026-01-15,Palta,Terminal La Palmera de La Serena,2700.0,2800.0,2750.0
+7422,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,2700.0,2700.0,2700.0
+7423,2026-01-15,Palta,Terminal La Palmera de La Serena,2300.0,2400.0,2350.0
+7424,2026-01-15,Palta,Femacal de La Calera,3400.0,3500.0,3441.6666
+7425,2026-01-15,Palta,Femacal de La Calera,3000.0,3100.0,3044.4444
+7426,2026-01-15,Palta,Femacal de La Calera,2500.0,2600.0,2551.5463
+7427,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+7428,2026-01-15,Palta,Vega Central Mapocho de Santiago,3600.0,3600.0,3600.0
+7429,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,3800.0,3800.0,3800.0
+7430,2026-01-15,Palta,Vega Monumental Concepción,3800.0,3800.0,3800.0
+7431,2026-01-15,Palta,Feria Lagunitas de Puerto Montt,4800.0,4800.0,4800.0
+7432,2026-01-15,Palta,Vega Central Mapocho de Santiago,3300.0,3300.0,3300.0
+7433,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,3300.0,3300.0,3300.0
+7434,2026-01-15,Palta,Vega Monumental Concepción,3500.0,3500.0,3500.0
+7435,2026-01-15,Palta,Feria Lagunitas de Puerto Montt,4500.0,4500.0,4500.0
+7436,2026-01-15,Palta,Vega Central Mapocho de Santiago,2900.0,2900.0,2900.0
+7437,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,3000.0,3000.0,3000.0
+7438,2026-01-15,Palta,Vega Monumental Concepción,3300.0,3300.0,3300.0
+7439,2026-01-15,Palta,Vega Central Mapocho de Santiago,2500.0,2500.0,2500.0
+7440,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,2700.0,2700.0,2700.0
+7441,2026-01-15,Palta,Macroferia Regional de Talca,35000.0,35000.0,35000.0
+7442,2026-01-15,Palta,Macroferia Regional de Talca,33000.0,33000.0,33000.0
+7443,2026-01-15,Palta,Macroferia Regional de Talca,30000.0,30000.0,30000.0
+7444,2026-01-15,Palta,Vega Modelo de Temuco,3600.0,3800.0,3693.617
+7445,2026-01-15,Palta,Vega Modelo de Temuco,3200.0,3500.0,3388.0597
+7446,2026-01-15,Palta,Vega Modelo de Temuco,2500.0,2900.0,2704.878
+7447,2026-01-15,Palta,Vega Modelo de Temuco,2500.0,2700.0,2591.1764
+7448,2026-01-15,Palta,Vega Modelo de Temuco,1500.0,2000.0,1720.0
+7449,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,3800.0,3800.0,3800.0
+7450,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,3800.0,3800.0,3800.0
+7451,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,3500.0,3500.0,3500.0
+7452,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,3500.0,3500.0,3500.0
+7453,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,3200.0,3200.0,3200.0
+7454,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,3100.0,3100.0,3100.0
+7455,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+7456,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+7457,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,2500.0,2500.0,2500.0
+7458,2026-01-15,Palta,Mercado Mayorista Lo Valledor de Santiago,2500.0,2500.0,2500.0
+8278,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+8279,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,3700.0,3700.0,3700.0
+8280,2026-01-16,Palta,Terminal La Palmera de La Serena,3500.0,3600.0,3550.0
+8281,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,3300.0,3300.0,3300.0
+8282,2026-01-16,Palta,Terminal La Palmera de La Serena,3100.0,3200.0,3150.0
+8283,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,3000.0,3000.0,3000.0
+8284,2026-01-16,Palta,Terminal La Palmera de La Serena,2700.0,2800.0,2750.0
+8285,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,2700.0,2700.0,2700.0
+8286,2026-01-16,Palta,Terminal La Palmera de La Serena,2300.0,2400.0,2350.0
+8287,2026-01-16,Palta,Femacal de La Calera,3400.0,3500.0,3455.5555
+8288,2026-01-16,Palta,Femacal de La Calera,3000.0,3200.0,3105.8823
+8289,2026-01-16,Palta,Femacal de La Calera,2500.0,2600.0,2551.3513
+8290,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+8291,2026-01-16,Palta,Vega Central Mapocho de Santiago,3600.0,3600.0,3600.0
+8292,2026-01-16,Palta,Macroferia Regional de Talca,3000.0,3000.0,3000.0
+8293,2026-01-16,Palta,Vega Central Mapocho de Santiago,3800.0,3800.0,3800.0
+8294,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,3700.0,3800.0,3767.5675
+8295,2026-01-16,Palta,Terminal Hortofrutícola Agro Chillán,3800.0,3800.0,3800.0
+8296,2026-01-16,Palta,Feria Lagunitas de Puerto Montt,5000.0,5000.0,5000.0
+8297,2026-01-16,Palta,Vega Central Mapocho de Santiago,3200.0,3200.0,3200.0
+8298,2026-01-16,Palta,Macroferia Regional de Talca,2800.0,2800.0,2800.0
+8299,2026-01-16,Palta,Vega Central Mapocho de Santiago,3300.0,3300.0,3300.0
+8300,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,3300.0,3300.0,3300.0
+8301,2026-01-16,Palta,Terminal Hortofrutícola Agro Chillán,3500.0,3500.0,3500.0
+8302,2026-01-16,Palta,Feria Lagunitas de Puerto Montt,4500.0,4500.0,4500.0
+8303,2026-01-16,Palta,Vega Central Mapocho de Santiago,2800.0,2800.0,2800.0
+8304,2026-01-16,Palta,Vega Central Mapocho de Santiago,2900.0,2900.0,2900.0
+8305,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,3000.0,3000.0,3000.0
+8306,2026-01-16,Palta,Vega Central Mapocho de Santiago,2600.0,2600.0,2600.0
+8307,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,2600.0,2600.0,2600.0
+8308,2026-01-16,Palta,Macroferia Regional de Talca,35000.0,35000.0,35000.0
+8309,2026-01-16,Palta,Macroferia Regional de Talca,33000.0,33000.0,33000.0
+8310,2026-01-16,Palta,Macroferia Regional de Talca,30000.0,30000.0,30000.0
+8311,2026-01-16,Palta,Vega Modelo de Temuco,3600.0,4000.0,3722.2222
+8312,2026-01-16,Palta,Vega Modelo de Temuco,3200.0,3800.0,3504.1095
+8313,2026-01-16,Palta,Vega Modelo de Temuco,2900.0,2900.0,2900.0
+8314,2026-01-16,Palta,Vega Modelo de Temuco,2500.0,2500.0,2500.0
+8315,2026-01-16,Palta,Vega Modelo de Temuco,2200.0,2200.0,2200.0
+8316,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+8317,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,3800.0,3800.0,3800.0
+8318,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,2500.0,2500.0,2500.0
+8319,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,3500.0,3500.0,3500.0
+8320,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,2200.0,2200.0,2200.0
+8321,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,3100.0,3100.0,3100.0
+8322,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,2000.0,2000.0,2000.0
+8323,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+8324,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,1700.0,1700.0,1700.0
+8325,2026-01-16,Palta,Mercado Mayorista Lo Valledor de Santiago,2500.0,2500.0,2500.0
+9017,2026-01-19,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+9018,2026-01-19,Palta,Terminal La Palmera de La Serena,3500.0,3600.0,3550.0
+9019,2026-01-19,Palta,Mercado Mayorista Lo Valledor de Santiago,3400.0,3400.0,3400.0
+9020,2026-01-19,Palta,Terminal La Palmera de La Serena,3100.0,3200.0,3150.0
+9021,2026-01-19,Palta,Mercado Mayorista Lo Valledor de Santiago,3100.0,3100.0,3100.0
+9022,2026-01-19,Palta,Terminal La Palmera de La Serena,2700.0,2800.0,2750.0
+9023,2026-01-19,Palta,Mercado Mayorista Lo Valledor de Santiago,2500.0,2500.0,2500.0
+9024,2026-01-19,Palta,Terminal La Palmera de La Serena,2300.0,2400.0,2350.0
+9025,2026-01-19,Palta,Mercado Mayorista Lo Valledor de Santiago,3800.0,3800.0,3800.0
+9026,2026-01-19,Palta,Femacal de La Calera,3400.0,3400.0,3400.0
+9027,2026-01-19,Palta,Femacal de La Calera,3000.0,3000.0,3000.0
+9028,2026-01-19,Palta,Femacal de La Calera,2600.0,2600.0,2600.0
+9029,2026-01-19,Palta,Vega Central Mapocho de Santiago,4000.0,4000.0,4000.0
+9030,2026-01-19,Palta,Vega Central Mapocho de Santiago,3600.0,3600.0,3600.0
+9031,2026-01-19,Palta,Vega Central Mapocho de Santiago,3800.0,3800.0,3800.0
+9032,2026-01-19,Palta,Macroferia Regional de Talca,3600.0,3600.0,3600.0
+9033,2026-01-19,Palta,Vega Central Mapocho de Santiago,3300.0,3300.0,3300.0
+9034,2026-01-19,Palta,Vega Central Mapocho de Santiago,3400.0,3400.0,3400.0
+9035,2026-01-19,Palta,Macroferia Regional de Talca,3300.0,3300.0,3300.0
+9036,2026-01-19,Palta,Vega Central Mapocho de Santiago,3000.0,3000.0,3000.0
+9037,2026-01-19,Palta,Macroferia Regional de Talca,3000.0,3000.0,3000.0
+9038,2026-01-19,Palta,Vega Central Mapocho de Santiago,2600.0,2600.0,2600.0
+9039,2026-01-19,Palta,Vega Modelo de Temuco,4000.0,4000.0,4000.0
+9040,2026-01-19,Palta,Vega Modelo de Temuco,3500.0,3600.0,3552.1739
+9041,2026-01-19,Palta,Vega Modelo de Temuco,2900.0,3000.0,2952.9411
+9042,2026-01-19,Palta,Vega Modelo de Temuco,2000.0,2200.0,2111.1111
+9043,2026-01-19,Palta,Vega Modelo de Temuco,2200.0,2200.0,2200.0
+9044,2026-01-19,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+9045,2026-01-19,Palta,Mercado Mayorista Lo Valledor de Santiago,3800.0,3800.0,3800.0
+9046,2026-01-19,Palta,Mercado Mayorista Lo Valledor de Santiago,2500.0,2500.0,2500.0
+9047,2026-01-19,Palta,Mercado Mayorista Lo Valledor de Santiago,3700.0,3700.0,3700.0
+9048,2026-01-19,Palta,Mercado Mayorista Lo Valledor de Santiago,2200.0,2200.0,2200.0
+9049,2026-01-19,Palta,Mercado Mayorista Lo Valledor de Santiago,3300.0,3300.0,3300.0
+9050,2026-01-19,Palta,Mercado Mayorista Lo Valledor de Santiago,2000.0,2000.0,2000.0
+9051,2026-01-19,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+9052,2026-01-19,Palta,Mercado Mayorista Lo Valledor de Santiago,1700.0,1700.0,1700.0
+9053,2026-01-19,Palta,Mercado Mayorista Lo Valledor de Santiago,2400.0,2400.0,2400.0
+9800,2026-01-20,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+9801,2026-01-20,Palta,Mercado Mayorista Lo Valledor de Santiago,3700.0,3700.0,3700.0
+9802,2026-01-20,Palta,Terminal La Palmera de La Serena,3500.0,3600.0,3550.0
+9803,2026-01-20,Palta,Comercializadora del Agro de Limarí,3300.0,3400.0,3350.0
+9804,2026-01-20,Palta,Mercado Mayorista Lo Valledor de Santiago,3400.0,3400.0,3400.0
+9805,2026-01-20,Palta,Terminal La Palmera de La Serena,3100.0,3200.0,3150.0
+9806,2026-01-20,Palta,Comercializadora del Agro de Limarí,2900.0,3000.0,2950.0
+9807,2026-01-20,Palta,Mercado Mayorista Lo Valledor de Santiago,3000.0,3000.0,3000.0
+9808,2026-01-20,Palta,Terminal La Palmera de La Serena,2700.0,2800.0,2750.0
+9809,2026-01-20,Palta,Comercializadora del Agro de Limarí,2500.0,2600.0,2550.0
+9810,2026-01-20,Palta,Mercado Mayorista Lo Valledor de Santiago,2700.0,2700.0,2700.0
+9811,2026-01-20,Palta,Terminal La Palmera de La Serena,2300.0,2400.0,2350.0
+9812,2026-01-20,Palta,Comercializadora del Agro de Limarí,2100.0,2200.0,2150.0
+9813,2026-01-20,Palta,Femacal de La Calera,3400.0,3400.0,3400.0
+9814,2026-01-20,Palta,Femacal de La Calera,3000.0,3000.0,3000.0
+9815,2026-01-20,Palta,Femacal de La Calera,2600.0,2600.0,2600.0
+9816,2026-01-20,Palta,Femacal de La Calera,2100.0,2100.0,2100.0
+9817,2026-01-20,Palta,Mercado Mayorista Lo Valledor de Santiago,4000.0,4000.0,4000.0
+9818,2026-01-20,Palta,Vega Central Mapocho de Santiago,3600.0,3600.0,3600.0
+9819,2026-01-20,Palta,Mercado Mayorista Lo Valledor de Santiago,3800.0,3800.0,3800.0
+9820,2026-01-20,Palta,Macroferia Regional de Talca,3600.0,3600.0,3600.0
+9821,2026-01-20,Palta,Terminal Hortofrutícola Agro Chillán,3600.0,3600.0,3600.0
+9822,2026-01-20,Palta,Vega Monumental Concepción,4000.0,4000.0,4000.0
+9823,2026-01-20,Palta,Feria Lagunitas de Puerto Montt,5000.0,5000.0,5000.0
+9824,2026-01-20,Palta,Vega Central Mapocho de Santiago,3400.0,3400.0,3400.0
+9825,2026-01-20,Palta,Mercado Mayorista Lo Valledor de Santiago,3500.0,3500.0,3500.0
+9826,2026-01-20,Palta,Macroferia Regional de Talca,3400.0,3400.0,3400.0
+9827,2026-01-20,Palta,Terminal Hortofrutícola Agro Chillán,3300.0,3300.0,3300.0
+9828,2026-01-20,Palta,Vega Monumental Concepción,3500.0,3500.0,3500.0
+9829,2026-01-20,Palta,Feria Lagunitas de Puerto Montt,4500.0,4500.0,4500.0
+9830,2026-01-20,Palta,Vega Central Mapocho de Santiago,3000.0,3000.0,3000.0
+9831,2026-01-20,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+9832,2026-01-20,Palta,Macroferia Regional de Talca,3200.0,3200.0,3200.0
+9833,2026-01-20,Palta,Terminal Hortofrutícola Agro Chillán,3000.0,3000.0,3000.0
+9834,2026-01-20,Palta,Vega Monumental Concepción,3000.0,3000.0,3000.0
+9835,2026-01-20,Palta,Mercado Mayorista Lo Valledor de Santiago,2500.0,2500.0,2500.0
+9836,2026-01-20,Palta,Vega Modelo de Temuco,3500.0,3600.0,3550.0
+9837,2026-01-20,Palta,Vega Modelo de Temuco,2900.0,3000.0,2946.6666
+9838,2026-01-20,Palta,Vega Modelo de Temuco,2500.0,2500.0,2500.0
+9839,2026-01-20,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+9840,2026-01-20,Palta,Mercado Mayorista Lo Valledor de Santiago,3800.0,3800.0,3800.0
+9841,2026-01-20,Palta,Mercado Mayorista Lo Valledor de Santiago,2500.0,2500.0,2500.0
+9842,2026-01-20,Palta,Mercado Mayorista Lo Valledor de Santiago,3500.0,3500.0,3500.0
+9843,2026-01-20,Palta,Mercado Mayorista Lo Valledor de Santiago,2200.0,2200.0,2200.0
+9844,2026-01-20,Palta,Mercado Mayorista Lo Valledor de Santiago,3200.0,3200.0,3200.0
+9845,2026-01-20,Palta,Mercado Mayorista Lo Valledor de Santiago,2000.0,2000.0,2000.0
+9846,2026-01-20,Palta,Mercado Mayorista Lo Valledor de Santiago,2800.0,2800.0,2800.0
+9847,2026-01-20,Palta,Mercado Mayorista Lo Valledor de Santiago,2500.0,2500.0,2500.0

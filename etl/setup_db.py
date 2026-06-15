@@ -2,6 +2,8 @@ import sqlite3
 import os
 import logging
 
+from streamlit import cursor
+
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - [%(levelname)s] - %(message)s')
 logger = logging.getLogger("Setup_DB")
 
@@ -25,6 +27,9 @@ def inicializar_base_de_datos():
             hectareas_productivas INTEGER
         )
     ''')
+    
+    # Borramos la tabla vieja si existe para limpiar duplicados anteriores
+    cursor.execute('DROP TABLE IF EXISTS reglas_fenologicas')
 
     # 2. Tabla de Reglas Fenológicas (Lógica de Rezagos del Clima)
     cursor.execute('''
